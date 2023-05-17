@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.quote {
+    margin-bottom: 20px;
+}
+
+.quote-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.quote-author {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+.quote-but{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
